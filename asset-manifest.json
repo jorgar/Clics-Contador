@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Clics-Contador/static/css/main.e92c5c2b.css",
+    "main.js": "/Clics-Contador/static/js/main.14c4774b.js",
+    "static/js/453.a76e045d.chunk.js": "/Clics-Contador/static/js/453.a76e045d.chunk.js",
+    "static/media/Logo.png": "/Clics-Contador/static/media/Logo.57d773deffbf0e8f0353.png",
+    "index.html": "/Clics-Contador/index.html",
+    "main.e92c5c2b.css.map": "/Clics-Contador/static/css/main.e92c5c2b.css.map",
+    "main.14c4774b.js.map": "/Clics-Contador/static/js/main.14c4774b.js.map",
+    "453.a76e045d.chunk.js.map": "/Clics-Contador/static/js/453.a76e045d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e92c5c2b.css",
+    "static/js/main.14c4774b.js"
+  ]
+}
